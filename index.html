@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glen Raven - Daily Regression Reports</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            font-family:Inter, sans-serif;
+            background:#1f232a;
+            color:white;
+        }
+
+        .header{
+            background:#2c313a;
+            padding:30px;
+            box-shadow:0 3px 12px rgba(0,0,0,.3);
+        }
+
+        .header h1{
+            font-size:34px;
+            font-weight:700;
+        }
+
+        .header p{
+            margin-top:8px;
+            color:#a8b3c2;
+            font-size:15px;
+        }
+
+        .container{
+            width:90%;
+            max-width:1200px;
+            margin:40px auto;
+        }
+
+        .section-title{
+            font-size:24px;
+            margin-bottom:25px;
+            color:#ffffff;
+            font-weight:600;
+        }
+
+        .grid{
+            display:grid;
+            grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+            gap:25px;
+        }
+
+        .card{
+            background:#2b313b;
+            border-radius:14px;
+            padding:25px;
+            text-decoration:none;
+            color:white;
+            transition:.25s;
+            border:1px solid transparent;
+        }
+
+        .card:hover{
+            transform:translateY(-6px);
+            border-color:#3ecf8e;
+            box-shadow:0 12px 30px rgba(0,0,0,.35);
+        }
+
+        .date{
+            color:#3ecf8e;
+            font-size:14px;
+            font-weight:600;
+            margin-bottom:12px;
+        }
+
+        .title{
+            font-size:22px;
+            font-weight:700;
+            margin-bottom:15px;
+        }
+
+        .desc{
+            color:#b8c2cf;
+            line-height:1.6;
+            font-size:14px;
+            margin-bottom:20px;
+        }
+
+        .button{
+            display:inline-block;
+            padding:11px 18px;
+            background:#3ecf8e;
+            color:#111;
+            text-decoration:none;
+            border-radius:8px;
+            font-weight:600;
+        }
+
+        .button:hover{
+            background:#48e79c;
+        }
+
+        footer{
+            text-align:center;
+            padding:40px;
+            color:#8f99a7;
+            font-size:14px;
+        }
+
+        @media(max-width:768px){
+            .header h1{
+                font-size:28px;
+            }
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="header">
+    <h1>Glen Raven Unified UI</h1>
+    <p>Daily Regression Execution Reports</p>
+</div>
+
+<div class="container">
+
+    <div class="section-title">
+        Regression History
+    </div>
+
+    <div class="grid">
+
+        <!-- Copy this card for every new report -->
+
+        <div class="card">
+
+            <div class="date">
+                06 July 2026
+            </div>
+
+            <div class="title">
+                Regression Report
+            </div>
+
+            <div class="desc">
+                Daily automation execution report generated using
+                Allure Report for the Glen Raven Unified UI
+                Regression Suite.
+            </div>
+
+            <a class="button"
+               href="Regression_Report_06_07_2026/"
+               target="_blank">
+               Open Report →
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+
+<footer>
+    Glen Raven Unified UI • Automated Daily Regression Reports
+</footer>
+
+</body>
+</html>
