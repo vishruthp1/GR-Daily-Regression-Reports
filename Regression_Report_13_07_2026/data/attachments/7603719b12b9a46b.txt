@@ -1,0 +1,18 @@
+
+========== ADD NEW PAYMENT CARD ==========
+Order ID      : Y124975899
+Card Holder   : Kratika Sharma
+Card Type     : VISA
+Expiry        : 08/2027
+
+✓ Dynamic order selected successfully.
+✓ Change Payment dialog opened.
+✓ Credit Card payment type selected.
+✓ Card details entered successfully.
+✓ Card validated successfully.
+✓ Card saved successfully.
+✓ Masked card displayed.
+✓ Card holder name displayed correctly.
+✓ User can immediately select the newly added card.
+
+✓ Add New Card validation completed successfully for Order Y124975899.
