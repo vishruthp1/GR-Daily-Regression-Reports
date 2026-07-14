@@ -1,0 +1,12 @@
+
+========== ON-ACCOUNT CHECKOUT ==========
+Customer      : david
+Product       : 251074
+Payment Type   : On Account
+Payment Terms : Net 30
+
+✓ On-Account payment option displayed successfully.
+✓ Payment terms were displayed.
+✓ Net 30 payment term selected successfully.
+✓ Checkout confirmed successfully.
+✓ Order placed successfully using On-Account payment.

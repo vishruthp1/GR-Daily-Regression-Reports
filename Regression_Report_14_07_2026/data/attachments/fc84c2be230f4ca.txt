@@ -1,0 +1,2 @@
+Resolve Holds already enabled for this order.
+Another active hold exists on this order.

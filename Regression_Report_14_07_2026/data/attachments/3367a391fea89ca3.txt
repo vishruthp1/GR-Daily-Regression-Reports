@@ -1,0 +1,13 @@
+
+========== ORDER DETAILS VALIDATION ==========
+Customer ID : 3811501
+Products Added : 3
+✓ Order Lines header displays 03.
+✓ Customer Details collapsed by default.
+✓ Customer Details expanded successfully.
+✓ Customer Address collapsed by default.
+✓ Customer Address expanded successfully.
+✓ Order Summary expanded by default.
+✓ Order Summary collapsed successfully.
+
+✓ Order Details validation completed successfully.
