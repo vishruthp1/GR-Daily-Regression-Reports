@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"a41b3c32845e5caa29af0d331f56f950","name":"Regression Phase 1","statistic":{"failed":2,"broken":1,"skipped":0,"passed":48,"unknown":0,"total":51}},{"uid":"8988c4b428e8ded81ef5ac79a4ab04df","name":"Regression Phase 2","statistic":{"failed":0,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":7}}]}
