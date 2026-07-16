@@ -1,0 +1,11 @@
+Original Rows : 10
+Filtered Rows : 0
+Restored Rows : 10
+
+========== GLOBAL RESET ==========
+Original Rows : 10
+Filtered Rows : 0
+Restored Rows : 10
+✓ Contact Name filter cleared.
+✓ Order Status filter cleared.
+✓ Dataset restored successfully.

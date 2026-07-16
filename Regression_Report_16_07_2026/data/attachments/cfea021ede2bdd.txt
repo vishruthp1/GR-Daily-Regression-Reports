@@ -1,0 +1,26 @@
+
+========== ORDER SUMMARY ==========
+Subtotal  : Subtotal
+$131.53
+Charges   : Subtotal
+$131.53
+Charges
+$0.00
+Discounts
+$0.00
+Tax
+$0.00
+Discounts : Subtotal
+$131.53
+Charges
+$0.00
+Discounts
+$0.00
+Tax
+$0.00
+Tax       : Tax
+$0.00
+Total     : Total
+$131.53
+
+✓ Order Summary verified successfully for Order Y126054293

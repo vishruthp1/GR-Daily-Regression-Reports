@@ -1,0 +1,16 @@
+✓ Address search validated.
+✓ Email search validated.
+✓ Customer ID search validated.
+✓ Company Name search validated.
+✓ Contact Name search validated.
+✓ Phone Number search validated.
+
+========== CUSTOMER SEARCH VALIDATION ==========
+✓ Address Search      : 2320 N CAUSEWAY
+✓ Email Search        : a1752154473@test.tld
+✓ Customer ID Search  : 1144001
+✓ Company Search      : FABRICSPAN LLC
+✓ Contact Search      : GIZELE DABELLA
+✓ Phone Search        : 000
+
+✓ Successfully verified customer search using Address, Email, Customer ID, Company Name, Contact Name and Phone Number.

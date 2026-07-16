@@ -1,0 +1,21 @@
+
+Created Order ID : Y128954801
+Grid Order ID : Y128954801
+
+========== QUICK ACTION - CREATE ORDER ==========
+Created Order ID : Y128954801
+Orders Grid ID   : Y128954801
+Order Header ID  : Y128954801
+
+✓ Login successful.
+✓ Create Order Quick Action is visible.
+✓ User navigated to Create Order page.
+✓ Contact selected successfully.
+✓ Order created successfully.
+✓ Orders page opened successfully.
+✓ First Order ID captured successfully.
+✓ Order Detail page opened successfully.
+✓ Created Order ID matches Orders Grid.
+✓ Created Order ID matches Order Header.
+
+✓ Test Case Passed.

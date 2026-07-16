@@ -1,0 +1,27 @@
+✓ Login successful.
+✓ Customer search successful.
+✓ Create Order page opened successfully.
+✓ Product search successful.
+✓ Quantity entered.
+✓ Product added to cart.
+✓ Header Charges dialog opened.
+✓ Charge Type selected.
+✓ Charge Amount entered.
+✓ Header Level Charge added successfully.
+✓ Header Charge displayed successfully.
+✓ Order Summary updated successfully.
+
+========== ORDER LINE ALLOCATION ==========
+✓ Login successful.
+✓ Customer selected.
+✓ Contact selected.
+✓ Create Order opened.
+✓ Product searched.
+✓ Product added to cart.
+✓ Allocation option displayed.
+✓ Default RCN/DC allocation verified.
+✓ Header Level Charge added.
+✓ Header Charges displayed.
+✓ Order Summary updated.
+
+✓ Test Case Passed.

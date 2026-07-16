@@ -1,0 +1,27 @@
+✓ Login successful.
+✓ Customer search successful.
+✓ Create Order page opened successfully.
+✓ Product search successful.
+✓ Quantity entered.
+✓ Product added to cart.
+✓ Line Level Charges dialog opened.
+✓ Charge Type selected.
+✓ Charge Amount entered.
+✓ Line Level Charge added successfully.
+✓ Line Level Charge displayed successfully.
+✓ Order Summary updated successfully.
+
+========== LINE LEVEL CHARGES ==========
+✓ Login successful.
+✓ Customer selected.
+✓ Contact selected.
+✓ Create Order opened.
+✓ Product searched.
+✓ Product added to cart.
+✓ Line Level Charges dialog opened.
+✓ Charge Type selected.
+✓ Line Level Charge added successfully.
+✓ Charge displayed under selected order line.
+✓ Order Summary reflects Line Level Charge.
+
+✓ Test Case Passed.

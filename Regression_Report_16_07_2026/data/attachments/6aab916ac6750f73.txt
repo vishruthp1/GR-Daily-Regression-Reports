@@ -1,0 +1,9 @@
+
+========== TAB FALLBACK VALIDATION ==========
+✓ Orders tab opened.
+✓ Business tab opened.
+✓ Returns tab opened.
+✓ Closing active Business tab activated Orders tab.
+✓ Closing active Orders tab activated Returns tab.
+
+✓ Active tab fallback validated successfully.

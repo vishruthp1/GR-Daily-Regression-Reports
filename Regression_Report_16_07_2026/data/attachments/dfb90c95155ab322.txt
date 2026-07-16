@@ -1,0 +1,23 @@
+491301
+
+========== TC_15 ==========
+Order ID        : Y105378820
+Customer ID     : 491301
+Customer Name   : DAVID HALL
+Contact Name    : Bharat Sadeja
+Customer Email  : bharat.sadeja@acuverconsulting.com
+Phone Number    : +1 (303) 410 - 6237
+
+✓ Login successful.
+✓ Order search successful.
+✓ Search suggestion contains Order ID.
+✓ Search suggestion contains Customer ID.
+✓ Search suggestion contains Contact Name.
+✓ Search suggestion contains Customer Email.
+✓ Search suggestion contains Company Name.
+✓ Search suggestion contains Phone Number.
+✓ Navigated to Order Detail page.
+✓ Order Header validated.
+✓ Order Tab validated.
+✓ Customer Name validated.
+✓ Contact Name validated.
