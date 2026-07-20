@@ -1,0 +1,23 @@
+✓ Login page loaded.
+✓ Login successful.
+✓ Create Order opened.
+✓ Customer selected.
+✓ Contact attached.
+✓ Product 721731 added to cart.
+✓ Product 721732 added to cart.
+✓ Product 251073 added to cart.
+✓ Item #721731 displayed in cart.
+✓ Item #721732 displayed in cart.
+✓ Item #251073 displayed in cart.
+✓ Order Summary displayed.
+
+========== MULTIPLE PRODUCTS VALIDATION ==========
+✓ Login successful.
+✓ Draft Order created.
+✓ Product 721731 added successfully.
+✓ Product 721732 added successfully.
+✓ Product 251073 added successfully.
+✓ All products displayed in cart.
+✓ Order Summary displayed.
+
+✓ Test Case Passed.

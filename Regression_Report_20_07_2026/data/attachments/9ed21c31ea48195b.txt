@@ -1,0 +1,24 @@
+✓ Login successful.
+✓ Customer selected.
+✓ Create Order page opened.
+✓ Product search successful.
+✓ Quantity entered.
+✓ Product added to cart.
+✓ Draft Order ID : Y133194005
+✓ Cancel button clicked.
+✓ Orders page opened.
+Grid Order IDs : Y133194005
+✓ Draft Order retained successfully.
+
+========== DRAFT ORDER VALIDATION ==========
+✓ Login successful.
+✓ Customer selected.
+✓ Create Order page opened.
+✓ Product added to cart.
+✓ Draft Order ID saved : Y133194005
+✓ Cart exited using Cancel.
+✓ Orders page opened.
+✓ Draft Order found.
+✓ User can continue from saved draft.
+
+✓ Test Case Passed.

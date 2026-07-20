@@ -1,0 +1,17 @@
+✓ Login page loaded successfully.
+✓ Login successful.
+✓ Dashboard loaded successfully.
+✓ Search Order clicked.
+✓ Order Search page opened successfully.
+✓ Orders title verified.
+✓ Search Orders textbox verified.
+
+========== SEARCH ORDER QUICK ACTION VALIDATION ==========
+✓ Login successful.
+✓ Dashboard displayed.
+✓ Search Order quick action clicked.
+✓ Order Search page opened.
+✓ Orders title verified.
+✓ Search Orders textbox verified.
+
+✓ Test Case Passed.

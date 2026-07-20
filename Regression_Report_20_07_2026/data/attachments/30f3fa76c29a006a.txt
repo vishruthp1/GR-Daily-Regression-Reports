@@ -1,0 +1,21 @@
+✓ Login page loaded.
+✓ Login successful.
+✓ Order Search page opened.
+✓ Order selected.
+✓ Right-hand pane displayed.
+✓ Customer Details verified.
+✓ Customer Address verified.
+✓ Order Summary verified.
+✓ Order Lines section displayed.
+
+========== ORDER DETAILS VALIDATION ==========
+✓ Login successful.
+✓ Order Search page opened.
+✓ Order selected successfully.
+✓ Right-hand pane displayed.
+✓ Customer Details verified.
+✓ Customer Address verified.
+✓ Order Summary verified.
+✓ Order Lines displayed.
+
+✓ Test Case Passed.

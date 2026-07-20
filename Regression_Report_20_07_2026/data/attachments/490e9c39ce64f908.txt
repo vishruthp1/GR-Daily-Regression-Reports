@@ -1,0 +1,45 @@
+✓ Login successful.
+✓ Customer selected.
+✓ Create Order page opened.
+✓ Product search successful.
+✓ Quantity entered.
+✓ Product added to cart.
+✓ Order Summary section displayed.
+
+Adding Header Level Charge...
+✓ Header Level Charge added successfully.
+
+Adding Line Level Charge...
+✓ Line Level Charge added successfully.
+✓ Charges updated successfully in Order Summary.
+
+Adding Carrier Service...
+✓ Carrier Service added successfully.
+✓ Order Summary components displayed successfully.
+
+Validating Order Summary...
+✓ Order Summary and Currency Formatting validated successfully.
+✓ Subtotal displayed.
+✓ Charges displayed.
+✓ Discounts displayed.
+✓ Tax displayed.
+✓ Total displayed.
+
+========== ORDER SUMMARY VALIDATION ==========
+✓ Login successful.
+✓ Customer selected.
+✓ Contact selected.
+✓ Create Order page opened.
+✓ Product added to cart.
+✓ Header Level Charge added.
+✓ Line Level Charge added.
+✓ Carrier Service added.
+✓ Order Summary displayed.
+✓ Subtotal verified.
+✓ Shipping verified.
+✓ Taxes verified.
+✓ Charges verified.
+✓ Total Amount Due verified.
+✓ Currency formatting verified.
+
+✓ Test Case Passed.

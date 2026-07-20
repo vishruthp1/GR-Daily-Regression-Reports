@@ -1,0 +1,19 @@
+✓ Login page loaded.
+✓ Login successful.
+✓ Order Search page opened.
+✓ Header filter applied.
+✓ Order Y131613600 displayed after filtering.
+✓ Save New Search button verified.
+✓ Clear Search button verified.
+✓ Header filter cleared.
+
+========== HEADER FILTER VALIDATION ==========
+✓ Login successful.
+✓ Order Search page opened.
+✓ Header filter applied.
+✓ Filtered order displayed.
+✓ Save New Search button verified.
+✓ Clear Search button verified.
+✓ Header filter cleared.
+
+✓ Test Case Passed.

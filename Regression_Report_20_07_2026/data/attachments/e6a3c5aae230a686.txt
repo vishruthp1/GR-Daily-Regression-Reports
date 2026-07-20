@@ -1,0 +1,22 @@
+✓ Login page loaded successfully.
+✓ Login page heading displayed.
+✓ Login page description displayed.
+✓ Company logo displayed.
+✓ User ID field displayed.
+✓ Password field displayed.
+✓ Login button is disabled before entering credentials.
+✓ Login button is enabled after entering valid User ID and Password.
+✓ Mandatory fields are displayed.
+
+========== LOGIN PAGE VALIDATION ==========
+✓ Login page loaded successfully.
+✓ Welcome Back heading displayed.
+✓ Login page description displayed.
+✓ Trivantage logo displayed.
+✓ User ID field displayed.
+✓ Password field displayed.
+✓ Login button initially disabled.
+✓ Login button enabled after entering credentials.
+✓ Mandatory fields verified.
+
+✓ Test Case Passed.

@@ -1,0 +1,19 @@
+✓ Login page loaded.
+✓ Login successful.
+✓ Order Search page opened.
+✓ Searched Order : Y131613600
+✓ Order Y131613600 displayed and clickable.
+✓ Save New Search button verified.
+✓ Clear Search button verified.
+✓ Search cleared successfully.
+
+========== SEARCH FILTER VALIDATION ==========
+✓ Login successful.
+✓ Order Search page opened.
+✓ Search filter applied.
+✓ Search result displayed correctly.
+✓ Save New Search button verified.
+✓ Clear Search button verified.
+✓ Search cleared successfully.
+
+✓ Test Case Passed.

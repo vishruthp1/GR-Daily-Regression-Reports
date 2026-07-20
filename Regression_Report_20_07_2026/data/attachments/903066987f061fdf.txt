@@ -1,0 +1,17 @@
+✓ Login page loaded.
+✓ Login successful.
+✓ Order Search page opened.
+✓ Order searched : Y131613600
+✓ Order hyperlink displayed.
+✓ Order hyperlink clicked.
+✓ Order Details displayed.
+
+========== ORDER HYPERLINK VALIDATION ==========
+✓ Login successful.
+✓ Order Search page opened.
+✓ Order Y131613600 searched successfully.
+✓ Order Number displayed as clickable hyperlink.
+✓ Order hyperlink opened Order Details.
+✓ Right-hand pane displayed successfully.
+
+✓ Test Case Passed.

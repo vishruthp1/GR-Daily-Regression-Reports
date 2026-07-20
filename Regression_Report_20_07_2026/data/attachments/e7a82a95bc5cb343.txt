@@ -1,0 +1,4 @@
+✓ Login page loaded successfully.
+✓ Login page verified.
+✓ Invalid credentials entered.
+✓ Login button clicked.

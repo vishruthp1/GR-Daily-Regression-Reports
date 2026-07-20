@@ -1,0 +1,8 @@
+✓ Login page loaded.
+✓ Login successful.
+✓ Create Order opened.
+✓ Customer selected.
+✓ Contact attached.
+✓ Product searched : 721731
+✓ Product added to cart.
+✓ Item #721731 displayed in cart.
